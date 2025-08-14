@@ -1,0 +1,36 @@
+# Proprietary Software Showcase License
+
+Copyright © 2025 Evan Schneider. All rights reserved.
+
+## Usage Rights
+
+This repository contains documentation showcasing proprietary software development work. The following terms apply:
+
+### Permitted Uses
+- **Viewing**: You may view this documentation for informational purposes
+- **Reference**: You may reference this work in professional contexts with proper attribution
+- **Educational**: You may use this as an example of enterprise software documentation
+
+### Prohibited Uses
+- **Reproduction**: You may not reproduce, copy, or recreate the described systems
+- **Implementation**: You may not implement or build systems based on the described architecture
+- **Commercial Use**: You may not use the concepts, methods, or designs for commercial purposes
+- **Distribution**: You may not redistribute or share the methodologies described herein
+
+## Intellectual Property
+
+The software systems, architecture patterns, business logic, algorithms, and implementation methods described in this documentation are the exclusive intellectual property of Evan Schneider.
+
+## Disclaimer
+
+This documentation is provided "as is" for demonstration purposes only. The author makes no warranties regarding the accuracy, completeness, or fitness for any particular purpose of the information contained herein.
+
+## Contact
+
+For licensing inquiries or permissions beyond the scope of this license, please contact:
+- **Author**: Evan Schneider
+- **Repository**: https://github.com/evan-schneider/cm360-audit-showcase
+
+---
+
+*This license protects the intellectual property rights of original software development work while allowing appropriate professional demonstration and reference.*
